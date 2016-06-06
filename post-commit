@@ -1,0 +1,4 @@
+#!/bin/sh
+echo "post-commit started"
+echo "post-commit finished"
+exit 0
